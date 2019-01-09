@@ -1,2 +1,2 @@
 # NTMathProblem
-Some basic constructions for math operations
+Some basic constructions for math optimisation
